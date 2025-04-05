@@ -5,4 +5,4 @@ if (num % 2) == 0:
 else:
    print("{0} is Odd".format(num))
    fresh line added today added 
-   freshly
+   freshldsy
